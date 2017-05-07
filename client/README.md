@@ -1,0 +1,1 @@
+To run the client, run python client.py in command line. A user-friendly CLI guides you through the commands and if you (somehow) get really stuck, you can find a wiki page detailing exactly how to use the client in intrinsic detail on the repository 'Client' wiki page.

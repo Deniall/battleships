@@ -1,0 +1,17 @@
+{
+    "players": [
+        {
+            "password": "gardas", 
+            "stats": {
+                "games_finished": 3,
+                "games_won": 1
+            }, 
+            "active_games":[
+                ObjectId("5657b371c720b2119c4f8cc8"), ObjectId("5657c88cc720b20e10fcb131")
+            ],
+            "key": "10903612463455278863726151637797673674", 
+            "name": "marcin",
+            "_id": ObjectId("5657d96bc720b20770907921")
+        }
+    ]
+}
